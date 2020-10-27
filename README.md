@@ -8,3 +8,5 @@ This console application demonstrate how to use the AWS Translate in C# (.NET Co
 
 1. Make sure you configured your IAM User and give it proper access right (TranslateFullAccess) 
 2. Run the sample
+
+![image](https://user-images.githubusercontent.com/18400458/97272337-08ccc100-1832-11eb-8d0e-147b2b7a2bd8.png)
