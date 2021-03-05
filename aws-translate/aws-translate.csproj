@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AWSSDK.Translate" Version="3.5.1.13" />
+    <PackageReference Include="AWSSDK.Translate" Version="3.5.2.34" />
   </ItemGroup>
 
 </Project>
